@@ -4,6 +4,8 @@ CMT316
 
 This project utilizes a Naive Bayes classifier for text data classification. The project consists of two main scripts: data.py for data preprocessing and feature_extraction.py for feature extraction, model training, and evaluation.
 
+The dataset originates from http://mlg.ucd.ie/datasets/bbc.html, please download it from this location.
+
 Installation of Dependencies:
 
     pip install -r requirements.txt
